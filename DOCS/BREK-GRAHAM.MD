@@ -3,3 +3,4 @@ Brek, Please add your Bio to the project
 - [ ] St. Louis
 - [ ] Pizza
 - [ ] Photography
+- Favorite color is Orange
